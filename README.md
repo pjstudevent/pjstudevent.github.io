@@ -3,6 +3,7 @@
  Email: pjstudevent@my.waketech.edu
  Description:  This repository will hold my files for the Spring 2025 term for CTI 110.
 <br>
+<p>
 <h1>About Me</h1>
 <br>
 <h2>My Interests</h2>
