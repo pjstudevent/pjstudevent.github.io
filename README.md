@@ -16,7 +16,9 @@ University sports.
 <br></br>
 <h2>Websites I Recommend</h2>
 <br></br>
-<1. This is UNC Greensboro and their MS in information Technology and Management Program-[https://bryan.uncg.edu/programs/masters-programs/ms-in-information-technology-and-management/]
-2. second
+<1. This is UNC Greensboro and their MS in information Technology and Management Program.  I hope to apply to the program after I finish my education at WTCC.
+[https://bryan.uncg.edu/programs/masters-programs/ms-in-information-technology-and-management/]
+2. The Bureauu of Labor Statistics provides interesting data about population and employment that you can download and view.  
+I find it fascinating.  [https://www.bls.gov/cps/]
 
 >
