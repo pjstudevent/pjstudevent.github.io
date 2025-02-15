@@ -16,8 +16,7 @@ University sports.
 <br></br>
 <h2>Websites I Recommend</h2>
 <br></br>
-<1. https://bryan.uncg.edu/programs/masters-programs/ms-in-information-technology-and-management/ - this is UNC Greensboro and their MS in information
-Technology and Management Program.
+<1. This is UNC Greensboro and their MS in information Technology and Management Program-[https://bryan.uncg.edu/programs/masters-programs/ms-in-information-technology-and-management/]
 2. second
 
 >
