@@ -11,11 +11,7 @@
   data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
   data-a11y-animated-images="system" data-a11y-link-underlines="true"
   
-<<<<<<< HEAD
-  >
-=======
   
->>>>>>> 26250c6c371e723416386b56415dd780f0f6caba
 
 
 
